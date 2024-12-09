@@ -1,2 +1,3 @@
 name = input("Enter your name: ")
-print(f"Hello {name}!")
+surname = input("Enter your surname: ")
+print(f"Hello {name} {surname}!")
